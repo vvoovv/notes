@@ -1,2 +1,2 @@
 
-My personal notes about Blender 3D. All notes are in [wiki](https://github.com/vvoovv/blender-notes/wiki).
+My personal notes, located at [wiki](https://github.com/vvoovv/blender-notes/wiki) and in [issues](https://github.com/vvoovv/notes/issues).
